@@ -1,0 +1,5 @@
+1.virtuālais asistents
+2.patēŗiņu izsekotājs
+3.ziņas
+4.machine learning objektu atpazīšana bildēs
+5.laikapstākļi

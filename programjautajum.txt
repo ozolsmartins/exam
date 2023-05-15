@@ -1,0 +1,10 @@
+- kas ir OOP klase
+klase ir plānojums objektu izveidei (konkrēta datu struktūra)
+-kas ir intedžeris
+datu tips, kas raksturo skaitli, kas nav daļskaitlis jeb ir vesels skaitlis
+- kas ir mantošana
+mantojums ir procedūra, kurā viena klase pārmanto citas klases atribūtus un metodes
+- ko dara stilizēšanas opcija align
+align-content iestata telpas sadalījumu starp satura vienumiem un ap tiem pa flexbox šķērsasi vai režģa bloka asi
+- kas ir divdimensiju masīvs
+divdimensiju masīvs ir līdzīgs viendimensijas masīvam, taču to var vizualizēt kā  tabulu ar rindām un kolonnām, divdimensiju masīvs patiesībā nav nekas vairāk kā masīvu masīvs

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pomodoro Clock</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1 class="header">Mārtiņš's creative utility</h1>
+	<div class="container">
+		<h1>Pomodoro Clock</h1>
+		<div id="timer" class="timer"></div>
+		<div class="buttons">
+			<button id="start" class="button">Start</button>
+			<button id="pause" class="button">Pause</button>
+			<button id="reset" class="button">Reset</button>
+			<button id="short-break" class="button">Short Break</button>
+			<button id="long-break" class="button">Long Break</button>
+		</div>
+	</div>
+	<div class="container1">
+		<h1>To-do list</h1>
+		<div class="buttons">
+			<input type="text" id="text" maxlength="30">
+			<input type="number" id="number">
+			<button id="add" class="button" onclick="addTask()">Add</button>
+			<button id="clear" class="button" onclick="clearTask()">Clear</button>
+		</div>
+		<div id="to-do" class="to-do">
+
+		</div>
+		<div class="buttons">
+			<button id="add" class="button" onclick="startTask()">Start</button>
+		</div>
+	</div>
+	<script src="main.js"></script>
+</body>
+</html>
